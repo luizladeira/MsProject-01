@@ -5,6 +5,4 @@ O projeto é a criação de um Aplicativo de reflorestamento, qual o objetivo de
 
 # Predecessas
 
-Tipo de vínculo
-
-[Tipo de vinculo na coluna Predecessoras](https://support.microsoft.com/pt-br/topic/vincular-tarefas-em-um-projeto-31b918ce-4b71-475c-9d6b-0ee501b4be57#:~:text=Escolha%20Tarefa%20%3E%20Vincular%20Tarefas.)
+Tipo de vínculo: [Tipo de vinculo na coluna Predecessoras](https://support.microsoft.com/pt-br/topic/vincular-tarefas-em-um-projeto-31b918ce-4b71-475c-9d6b-0ee501b4be57#:~:text=Escolha%20Tarefa%20%3E%20Vincular%20Tarefas.)
