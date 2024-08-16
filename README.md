@@ -1,2 +1,2 @@
 # Projeto
-Projeto para a construção do aplicativo de reflorestamento
+O projeto é a criação de um Aplicativo de reflorestamento, qual o objetivo desse aplicativo. Vemos que diversas áreas dentro da cidade de São Paulo, Belo Horizonte, Rio de Janeiro, tem muitas áreas degradadas, áreas que estão vazias, foram desmatadas, inclusive, e podemos usar, os propriedades usuários do aplicativo, as pessoas que indiquem essas áreas para o plantio de árvores e reflorestamento.
